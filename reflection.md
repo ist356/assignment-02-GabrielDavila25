@@ -1,7 +1,7 @@
 # Reflection
 
-Student Name:  name
-Sudent Email:  email
+Student Name:  Gabriel Davila - Campos
+Sudent Email:  gdavil01@syr.edu
 
 ## Instructions
 
@@ -22,4 +22,4 @@ Examples:
 **Best Reflection** "I learned when to use while vs for loops. While loops are for sentiel-controlled values (waiting for a condition to occur), vs for loops are for iterating over collections of fixed values."
 
 `--- Reflection Below This Line ---`
-Yay
+I won’t lie, I had to refresh my memory on how to parse and work with lists, which initially felt frustrating, but jogging my memory turned out to be really helpful. This assignment highlighted some areas I need to focus on, especially practicing coding and problem-solving more regularly. One of the main challenges I faced was simply getting started, just figuring out where to begin was overwhelming. I kept second-guessing myself, which made me hesitate. However, once I got the ball rolling and broke the problem down into smaller steps, things became a lot more straightforward. Another issue I ran into was understanding how to properly extract and manage data from strings. At first, the logic behind splitting strings into meaningful parts felt confusing, but as I worked through the examples, it started to make more sense. This experience has shown me that while I can struggle with the initial approach, with more consistent practice, I'll improve my problem-solving process and confidence in tackling new coding tasks.
